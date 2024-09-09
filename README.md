@@ -1,1 +1,1 @@
-# BasiskompetenzenProgrammierung
+# Basiskompetenzen Propädeutikum für Programmierung WS24
